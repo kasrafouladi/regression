@@ -1,1 +1,1 @@
-# regression
+This project is a sample educational regression analysis implementation. It demonstrates basic concepts and techniques used in regression modeling, making it suitable for learning and practice purposes.
